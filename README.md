@@ -7,4 +7,4 @@
 3. node-gyp build
 4. node index.js // that's it!
 
-You may also face the following [https://github.com/nodejs/node-gyp/issues/341](issue) on OSX
+You may also face the following [issue](https://github.com/nodejs/node-gyp/issues/341) on OSX
